@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/WebProject.iml" filepath="$PROJECT_DIR$/.idea/WebProject.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/PokemonFightsSimulator.iml" filepath="$PROJECT_DIR$/.idea/PokemonFightsSimulator.iml" />
+>>>>>>> 5105f13103d491ac5e9f25c0daafddb066c19fa9
     </modules>
   </component>
 </project>
